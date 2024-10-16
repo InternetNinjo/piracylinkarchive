@@ -1,0 +1,40 @@
+site_name: Piracy Link Archive
+copyright: Made by Zenith Rifle and Vran29. Huge thanks to fmhy!
+theme:
+  name: material
+  icon:
+    logo: material/pirate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: black
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+
+nav:
+  - 🏴‍☠️Home: "index.md"
+  - 🎬Movies: "Movies.md"
+  - 📺TV Shows: "TV-Shows.md"
+  - 🎧Music: "Music.md"
+  - 🎮Games: "Games.md"
+  - 💽Software: "Software.md"
+  - 📚Comics: "Comics.md"
+  - 🏞️Manga: "Manga.md"
+  - 📖Books: "Books.md"
+  - 😼Anime: "Anime.md"
+
+extra_css:
+  - stylesheets/extra.css
