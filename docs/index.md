@@ -18,6 +18,8 @@ fuck u big corporation
 if u try to dmca this site I will find u down and suck ur dick.
 
 ```<RANT START>```
+
+
 Big corporations and DRM (Digital Rights Management) are the biggest assholes in the game, and I’m not even gonna sugarcoat it. These greedy fucks couldn’t give less of a shit about *u*, the paying customer. They’ve made it their mission to treat *everyone* like a thief, all while screwing over the legit folks who just wanna enjoy the stuff they bought without jumping through a thousand hoops.
 
 Let’s break this down. U drop cash on a game, movie, or album, and what do u get in return? Some bullshit restrictions wrapped in DRM. Suddenly, it’s not *your* game anymore. Nah, it’s like u rented it and need permission from the corporate overlords every time u wanna use it. Wanna play that single-player game offline? Fuck u. Got bad internet? Screw u, u can’t even access what u paid for. It’s like these companies are saying, “Thanks for the money, but we still own *everything*, and u just have the privilege of playing when we say so.”
