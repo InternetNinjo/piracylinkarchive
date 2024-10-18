@@ -57,6 +57,23 @@ In the end, DRM does nothing but widen the gap between those who have money to b
 
 ```<RANT FINISHED>```
 
+
+```<RANT START>```
+
+
+Denuvo is fucking trash, and I’m sick of pretending otherwise. It’s like the developers sat down and said, “How can we absolutely fuck over the people who actually pay for our games?” Oh, I know—let’s throw in this piece of DRM that turns every gaming session into a stuttering, lag-ridden, unplayable mess! Seriously, fuck Denuvo and the idiots who keep shoving it into our games like it's a good idea.
+
+You buy a game, and instead of getting a smooth, fun experience, you get a fucking **choppy slideshow** because Denuvo is eating up your system resources like a parasite. Your expensive rig that you’ve spent a fortune on? Doesn’t matter. Denuvo will still **shit all over it**, throttling your CPU and making your game run like it's powered by a hamster on a wheel. It’s the **gaming equivalent of cancer**—it slows down everything, from loading times to frame rates, and it’s completely fucking useless at what it’s supposed to do: stop piracy.
+
+And don’t get me started on how **invasive** this bullshit is. It buries itself deep into your system like some kind of malware. It’s like, “Oh, you want to play the game you just bought? Well, too fucking bad, here’s a bunch of background processes stealing your CPU cycles and making everything slow to a crawl.” **Fuck off!** It’s like you’re being punished for actually supporting the developers. Meanwhile, the pirates who crack the game a day after release are sitting there with **perfectly optimized** versions, laughing their asses off at us for being such suckers.
+
+And what does Denuvo actually accomplish? **Jack shit!** Pirates crack it in **days**. Sometimes they don’t even need that long. The only people who suffer are the ones who **bought the game legally**. How is that even remotely fucking fair? It’s like being mugged twice—once by the publisher and again by this **useless fucking DRM**. Even worse, a lot of developers end up **removing** Denuvo later because they finally realize what a **clusterfuck** it is. But by then, the damage is already done. The first few months of a game’s life are **ruined**, and the reviews are tanked because no one could enjoy it at launch.
+
+In the end, Denuvo does nothing but **fuck** over legitimate customers. It’s an absolute **shitshow** of a DRM system, and it needs to **die a fiery fucking death**. Every time I see a game with Denuvo, it’s an instant “fuck no” from me.
+
+
+```<RANT FINISHED>```
+
 ---
 
 ## How can you contact us?
