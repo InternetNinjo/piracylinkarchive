@@ -17,7 +17,7 @@ fuck u big corporation
 
 if u try to dmca this site I will find u down and suck ur dick.
 
-```<RANT START>```
+## RANT
 
 
 Big corporations and DRM (Digital Rights Management) are the biggest assholes in the game, and I’m not even gonna sugarcoat it. These greedy fucks couldn’t give less of a shit about *u*, the paying customer. They’ve made it their mission to treat *everyone* like a thief, all while screwing over the legit folks who just wanna enjoy the stuff they bought without jumping through a thousand hoops.
@@ -35,10 +35,6 @@ They also don’t give a flying fuck about privacy. Some DRM schemes are straigh
 At the end of the day, big corporations and DRM are just another way for these greedy assholes to keep control over everything while they laugh at u. They don’t trust u, they don’t respect u, and they sure as hell don’t care about u once they’ve got your money. Fuck DRM, and fuck the companies pushing this garbage on us.
 
 
-```<RANT FINISHED>```
-
-```<RANT START>```
-
 
 Alright, let’s dive into how DRM isn’t just annoying as hell—it’s straight-up **anti-poor**, and that’s some bullshit. Most of us out here don’t have stacks of cash lying around, but these big corporations act like we’re all rolling in dough and can afford to pay for the same product multiple times or deal with their overpriced, restrictive nonsense. DRM basically tells people, “Hey, if you’re not rich enough to buy this shit *again* when something goes wrong, tough luck, sucker!”
 
@@ -55,11 +51,6 @@ This is why DRM feels like an attack on poor people. It’s designed by rich cor
 In the end, DRM does nothing but widen the gap between those who have money to burn and those who don’t. If u’re poor, u get stuck with fewer choices, more restrictions, and endless frustration while the wealthy get to bypass it all. It’s bullshit, and the sooner these corporations realize they’re screwing over the very people who need access the most, the better. But until then? DRM can go fuck itself.
 
 
-```<RANT FINISHED>```
-
-
-```<RANT START>```
-
 
 Denuvo is fucking trash, and I’m sick of pretending otherwise. It’s like the developers sat down and said, “How can we absolutely fuck over the people who actually pay for our games?” Oh, I know—let’s throw in this piece of DRM that turns every gaming session into a stuttering, lag-ridden, unplayable mess! Seriously, fuck Denuvo and the idiots who keep shoving it into our games like it's a good idea.
 
@@ -71,8 +62,6 @@ And what does Denuvo actually accomplish? **Jack shit!** Pirates crack it in **d
 
 In the end, Denuvo does nothing but **fuck** over legitimate customers. It’s an absolute **shitshow** of a DRM system, and it needs to **die a fiery fucking death**. Every time I see a game with Denuvo, it’s an instant “fuck no” from me.
 
-
-```<RANT FINISHED>```
 
 ---
 
