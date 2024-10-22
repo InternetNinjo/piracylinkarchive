@@ -1,3 +1,8 @@
+---
+title: Anime
+---
+
+
 # Anime
 
 ---

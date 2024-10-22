@@ -1,4 +1,6 @@
-
+---
+title: Piracy Link Archive
+---
 
 
 # Welcome to Piracy Link Archive (PLA)
