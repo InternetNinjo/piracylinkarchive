@@ -1,4 +1,4 @@
-# ➕ Contribute
+# Contribute
 ---
 
 ![Banner](https://small.fileditchstuff.me/s18/aedMqAnpFqqczfvgFoT.png)
