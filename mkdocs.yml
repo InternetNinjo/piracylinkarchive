@@ -1,5 +1,6 @@
 site_name: Piracy Link Archive
 copyright: Made by Zenith Rifle and Vran29. Huge thanks to fmhy!
+site_url: https://pla.fr.to
 
 extra:
   social:
@@ -53,3 +54,7 @@ repo_url: https://github.com/ashiccloud/piracylinkarchive.git
 plugins:
   - search
   - git-revision-date-localized
+  - social:
+      cards_layout: default
+      cards_layout_options:
+        background_image: layouts/Untitled.png
