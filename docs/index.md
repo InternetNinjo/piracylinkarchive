@@ -1,8 +1,3 @@
----
-title: Piracy Link Archive
-description: The Piracy Link Archive is a comprehensive index of download links curated from trusted piracy websites. It's designed to help you find what you're looking for quickly and easily.
----
-
 
 # Welcome to Piracy Link Archive (PLA)
 ---

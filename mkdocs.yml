@@ -36,17 +36,17 @@ theme:
         name: Switch to system preference
 
 nav:
-  - 🏴‍☠️Home: "index.md"
-  - ➕Contribute: "Contribute.md"
-  - 🎬Movies: "Movies.md"
-  - 📺TV Shows: "TV-Shows.md"
-  - 🎧Music: "Music.md"
-  - 🎮Games: "Games.md"
-  - 💽Software: "Software.md"
-  - 📚Comics: "Comics.md"
-  - 🏞️Manga: "Manga.md"
-  - 📖Books: "Books.md"
-  - 😼Anime: "Anime.md"
+  - Home: "index.md"
+  - Contribute: "Contribute.md"
+  - Movies: "Movies.md"
+  - TV Shows: "TV-Shows.md"
+  - Music: "Music.md"
+  - Games: "Games.md"
+  - Software: "Software.md"
+  - Comics: "Comics.md"
+  - Manga: "Manga.md"
+  - Books: "Books.md"
+  - Anime: "Anime.md"
 
 extra_css:
   - stylesheets/extra.css
