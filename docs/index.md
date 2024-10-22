@@ -1,6 +1,8 @@
 # Welcome to Piracy Link Archive (PLA)
 ---
 
+![Banner](https://small.fileditchstuff.me/s18/iXklGjUcNRZRVJuTsOz.png)
+
 > THIS SITE IS STILL IN VERY EARLY STATE!!
 
 
@@ -8,6 +10,12 @@
 ## What is this?
 
 The Piracy Link Archive is a comprehensive index of download links curated from trusted piracy websites. It's designed to help you find what you're looking for quickly and easily.
+
+---
+## Discord Server
+
+
+[Link](https://discord.gg/AZhDbpjMKv)
 
 ---
 

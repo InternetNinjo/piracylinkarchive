@@ -1,5 +1,7 @@
 # 🎬 Movies
 
+![Movie Banner](https://small.fileditchstuff.me/s18/rcOekXeIOWKfyhiwuzRc.png)
+
 ---
 
 ## The Substance

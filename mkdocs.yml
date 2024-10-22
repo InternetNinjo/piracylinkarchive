@@ -1,6 +1,14 @@
 site_name: Piracy Link Archive
 copyright: Made by Zenith Rifle and Vran29. Huge thanks to fmhy!
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://eason.cloud
 theme:
+  features:
+    - navigation.top
+    - navigation.sections
   name: material
   icon:
     logo: material/pirate
@@ -38,3 +46,7 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+
+repo_url: https://github.com/ashiccloud/piracylinkarchive.git
+
