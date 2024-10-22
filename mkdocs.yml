@@ -7,6 +7,8 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://eason.cloud
 theme:
+  icon:
+    logo: material/pirate
   features:
     - navigation.top
     - navigation.sections
@@ -55,7 +57,4 @@ repo_url: https://github.com/ashiccloud/piracylinkarchive.git
 plugins:
   - search
   - git-revision-date-localized
-  - social:
-      cards_layout: default
-      cards_layout_options:
-        background_image: layouts/Untitled.png
+  - social

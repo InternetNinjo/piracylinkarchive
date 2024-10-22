@@ -1,5 +1,6 @@
 ---
 title: Piracy Link Archive
+description: The Piracy Link Archive is a comprehensive index of download links curated from trusted piracy websites. It's designed to help you find what you're looking for quickly and easily.
 ---
 
 
@@ -19,7 +20,7 @@ The Piracy Link Archive is a comprehensive index of download links curated from 
 ---
 ## Discord Server
 
-![Discord Banner](https://cdn5.filehaus.su/files/1729601814_21484/Profile_banner_-_1.png)
+![Discord Banner](https://small.fileditchstuff.me/s18/skHwHPmnyjifxVYztjgS.png)
 
 
 [Link](https://discord.gg/AZhDbpjMKv)
