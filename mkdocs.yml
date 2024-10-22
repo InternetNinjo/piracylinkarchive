@@ -50,3 +50,6 @@ extra_css:
 
 repo_url: https://github.com/ashiccloud/piracylinkarchive.git
 
+plugins:
+  - search
+  - git-revision-date-localized
