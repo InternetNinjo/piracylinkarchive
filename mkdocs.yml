@@ -35,6 +35,7 @@ theme:
 
 nav:
   - 🏴‍☠️Home: "index.md"
+  - ➕Contribute: "Contribute.md"
   - 🎬Movies: "Movies.md"
   - 📺TV Shows: "TV-Shows.md"
   - 🎧Music: "Music.md"
