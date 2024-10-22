@@ -19,12 +19,16 @@ The Piracy Link Archive is a comprehensive index of download links curated from 
 ---
 ## Discord Server
 
+![Discord Banner](https://cdn5.filehaus.su/files/1729601814_21484/Profile_banner_-_1.png)
+
 
 [Link](https://discord.gg/AZhDbpjMKv)
 
 ---
 
 ## DMCA
+
+![DMCA Banner](https://small.fileditchstuff.me/s18/lQJKLoZLjXkgOpfjDbhm.png)
 
 Tell the file host to remove the file. If they don't, womp womp.
 
@@ -35,6 +39,8 @@ if u try to dmca this site I will find u down and suck ur dick.
 ---
 
 ## Rant
+
+![Rant Banner](https://small.fileditchstuff.me/s18/bvUhgnhvhxGFygNQaQEq.png)
 
 Big corporations are the fucking worst, and I’m so tired of people acting like they’re just “part of the system” or “too big to fail.” Nah, they’re *too big to give a shit* about anyone or anything that doesn’t involve lining their pockets. It’s all about money and power, and they’ll bulldoze whoever they need to get there. They’ve got more wealth than countries, they don’t pay their taxes, and they treat their workers like dirt. Let’s just stop pretending they’re good for society because they’re not.
 
@@ -56,6 +62,8 @@ Big corporations are a disease. They ruin everything they touch. They destroy co
 ---
 
 ## How can you contact us?
+
+![Contact Us Banner](https://small.fileditchstuff.me/s18/FlhDEiNLMmlHDNkOycWU.png)
 
 - **Discord:** zenithrifle
 - **Email:** first@sharecrypt.uk
