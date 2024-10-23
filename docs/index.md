@@ -30,8 +30,6 @@ Tell the file host to remove the file. If they don't, womp womp.
 
 fuck u big corporation
 
-if u try to dmca this site I will find u down and suck ur dick.
-
 ---
 
 ## Rant
