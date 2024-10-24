@@ -27,6 +27,8 @@ Select links from [fmhy](https://fmhy.lol). Make sure to bypass any captchas and
 
 You need to clone the repository to your local machine and use a text editor to make changes. I recommend using Git as the client and Visual Studio Code (VSCode) as your editor.
 
+The repo is: https://github.com/Piracy-Link-Archive/piracylinkarchive/
+
 #### Step 3: Formatting
 
 Once you have the markdown file open in your editor, you’ll need to add a new dropdown menu following this template:
