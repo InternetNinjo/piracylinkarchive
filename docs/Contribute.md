@@ -40,7 +40,7 @@ Once the markdown file is open in your editor, add your links as a new dropdown 
 ```
 ---
 
-## Software/Game Title
+## The title of your media
 <details>
 <summary>NAME</summary>
 <pre><a href="THE LINK" target="_blank">Source + Type + Group</a></pre>
@@ -63,7 +63,7 @@ To add additional links under the same title, follow this format:
 For example, if there are two links for a title, it should look like this:
 
 ```
-## Software/Game Title
+## The title of your media
 <details>
 <summary>NAME</summary>
 <pre><a href="THE LINK" target="_blank">Source + Type + Group</a></pre>
